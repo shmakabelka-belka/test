@@ -7,3 +7,4 @@ Add line
 В лесу родилась елочка
 Add line
 new branch line
+new line for GUI
